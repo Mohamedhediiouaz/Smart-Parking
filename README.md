@@ -12,3 +12,5 @@ diminue les efforts physiques que les gardiens doivent effectuer, limite le taux
 de la gestion d'un parking payant. L'utilisation de l'écran LED facilite l'orientation des utilisateurs vers
 la place libre sans l'aide des gardiens. Le système enregistre toutes les informations, que les agents
 peuvent consulter ou même imprimer si nécessaire pour analyser l'activité.
+
+NB: Ce travail est en cours de traitement...
